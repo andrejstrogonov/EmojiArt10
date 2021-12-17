@@ -1,10 +1,7 @@
 //
 //  EmojiArtDocument+Palette.swift
 //  EmojiArt
-//
-//  Created by CS193p Instructor on 5/4/20.
-//  Copyright © 2020 Stanford University. All rights reserved.
-//
+
 
 import Foundation
 

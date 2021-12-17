@@ -2,9 +2,6 @@
 //  PaletteChooserView.swift
 //  EmojiArt
 //
-//  Created by Ulrich Braß on 22.06.20.
-//  Copyright © 2020 CS193p Instructor. All rights reserved.
-//
 
 import SwiftUI
 

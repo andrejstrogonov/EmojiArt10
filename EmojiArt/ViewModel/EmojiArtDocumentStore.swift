@@ -2,9 +2,6 @@
 //  EmojiArtDocumentStore.swift
 //  EmojiArt
 //
-//  Created by CS193p Instructor on 5/6/20.
-//  Copyright © 2020 Stanford University. All rights reserved.
-//
 
 import SwiftUI
 import Combine

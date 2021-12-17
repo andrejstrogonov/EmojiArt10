@@ -2,10 +2,6 @@
 //  SpinningModifier.swift
 //  EmojiArt
 //
-//  Created by Ulrich Braß on 21.06.20.
-//  Copyright © 2020 CS193p Instructor. All rights reserved.
-//
-
 import SwiftUI
 
 // make an Image spinning

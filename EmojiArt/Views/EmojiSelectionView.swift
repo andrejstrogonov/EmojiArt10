@@ -1,10 +1,7 @@
 //
 //  EmojiSelectionView.swift
 //  EmojiArt
-//
-//  Created by Ulrich Braß on 16.06.20.
-//
-//
+
 
 import SwiftUI
 

@@ -2,10 +2,6 @@
 //  GridView.swift
 //  Memorize
 //
-//  Created by Ulrich Braß on 27.05.20.
-//  Copyright © 2020 Ulrich Braß. All rights reserved.
-//
-
 import SwiftUI
 
 // Create a grid view for Emojis

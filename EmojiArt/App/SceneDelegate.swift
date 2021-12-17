@@ -2,9 +2,6 @@
 //  SceneDelegate.swift
 //  EmojiArt
 //
-//  Created by CS193p Instructor on 4/27/20.
-//  Copyright © 2020 Stanford University. All rights reserved.
-//
 
 import UIKit
 import SwiftUI

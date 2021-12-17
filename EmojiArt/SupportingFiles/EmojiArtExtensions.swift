@@ -2,10 +2,6 @@
 //  EmojiArtExtensions.swift
 //  EmojiArt
 //
-//  Created by CS193p Instructor on 4/27/20.
-//  Copyright © 2020 Stanford University. All rights reserved.
-//  Adapted to assignment 4 requirements by Ulrich Braß
-
 import SwiftUI
 
 // the extension is not on Array, but on a Collection. This allows to use sets, instead of arrays

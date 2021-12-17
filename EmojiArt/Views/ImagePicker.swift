@@ -2,9 +2,6 @@
 //  ImagePicker.swift
 //  EmojiArt
 //
-//  Created by Ulrich Braß on 09.07.20.
-//  Copyright © 2020 CS193p Instructor. All rights reserved.
-//
 
 import SwiftUI
 import UIKit

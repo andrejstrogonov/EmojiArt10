@@ -2,9 +2,7 @@
 //  EmojiArtDocumentChooser.swift
 //  EmojiArt
 //
-//  Created by Ulrich Braß on 03.07.20.
-//  Copyright © 2020 CS193p Instructor. All rights reserved.
-//
+
 
 import SwiftUI
 
