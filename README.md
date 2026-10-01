@@ -1,1 +1,2 @@
-# EmojiArt10
+# EmojiArt10 example application
+Stanford cource
